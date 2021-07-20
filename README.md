@@ -27,6 +27,7 @@ For me, it's not just about programming, I see it as a whole rich world in itsel
 <img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 <img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://rt-ed.co.il/wp-content/uploads/2019/07/1024px-Python-logo-notext.svg_.png" />
+<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/1400/1*CeuWv9fCjD1uTiTuKytnBQ.png" />
 
 
 
