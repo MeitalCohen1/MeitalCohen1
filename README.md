@@ -24,10 +24,10 @@ For me, it's not just about programming, I see it as a whole rich world in itsel
 <img align="left" alt="Firebase" width="26px" src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" />
 <img align="left" alt="Bitbucket" width="26px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
 <br/>
-<img align="" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 
-<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
+<img align="" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://rt-ed.co.il/wp-content/uploads/2019/07/1024px-Python-logo-notext.svg_.png" />
 <img align="left" alt="React" width="26px" src="https://ui-router.github.io/images/logos/react.png" />
 <img align="left" alt="Strapi" width="60px" height="35px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AvHasCky--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pc5m0si91f57pfgtwc9i.png" />
