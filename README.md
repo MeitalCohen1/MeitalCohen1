@@ -1,6 +1,6 @@
 ### Hello World, I'm Meital  👋
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/427540/screenshots/3846538/roc-volume-55-cover.8700034b.png?compress=1&resize=800x600" width="500" height="400" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/427540/screenshots/3846538/roc-volume-55-cover.8700034b.png?compress=1&resize=800x600" width="450" height="400" />
 
 #### :raising_hand: About me:
 
